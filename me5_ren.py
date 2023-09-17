@@ -17,19 +17,6 @@ import uuid
 #snowland-smx
 #pycryptodome
 
-
-USERNAME = os.environ["USERNAME"]
-PASSWORD = os.environ["PASSWORD"]
-
-HOME = int(os.environ.get("HOME", "0"))
-
-DEBUG = int(os.environ.get("DEBUG", "0"))
-
-USER_PROVINCE = os.environ["USER_PROVINCE"]
-MAP_LON = os.environ["MAP_LON"]
-MAP_LAT = os.environ["MAP_LAT"]
-
-
 def getDES3Token(text, key):
     #PKCS5Padding
     #字符串长度需要是8的倍数

@@ -28,7 +28,7 @@ jobs:
           python -m pip install --upgrade pycryptodome
 
       - name: 'Auto Report'
-        run: python e-report.py
+        run: python me5_ren.py
         
       - name: 'Commit Files'
         id: commit
