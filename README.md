@@ -1,5 +1,5 @@
 # neu_health_check
-[![NEU Daily Health Check](https://github.com/zhangke200377/neu_health_check/actions/workflows/action.yml/badge.svg)](https://github.com/zhangke200377/neu_health_check/actions/workflows/action.yml)
+[![ME5 Sub Auto Ren](https://github.com/lony2003/me5-sub-renew/actions/workflows/main.yml/badge.svg)](https://github.com/lony2003/me5-sub-renew/actions/workflows/main.yml)
 
 东大健康上报自动化
 
