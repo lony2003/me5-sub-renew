@@ -1,4 +1,4 @@
-name: 'NEU Daily Health Check'
+name: 'ME5 Sub Auto Ren'
 
 on:
   workflow_dispatch:
